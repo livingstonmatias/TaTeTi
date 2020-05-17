@@ -1,0 +1,28 @@
+.App {
+  display: grid;
+  grid-template-rows: 60px 1fr;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+.AppMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Tablero {
+  width: 608px;
+  height: 608px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: repeat(3, 200px);
+  grid-gap: 4px;
+  background-color: rgb(83, 83, 83);
+}
+.Item {
+  background-color: rgb(226, 226, 226);
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
