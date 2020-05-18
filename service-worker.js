@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TaTeTi/precache-manifest.7e8b1c140f09c195844515a6481dc513.js"
+  "/TaTeTi/precache-manifest.e725a6080955e027b75b12e3ae66c441.js"
 );
 
 self.addEventListener('message', (event) => {
