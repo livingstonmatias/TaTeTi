@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TaTeTi/static/css/main.84d2ce44.chunk.css",
-    "main.js": "/TaTeTi/static/js/main.43b62e6a.chunk.js",
-    "main.js.map": "/TaTeTi/static/js/main.43b62e6a.chunk.js.map",
+    "main.css": "/TaTeTi/static/css/main.a8380a4a.chunk.css",
+    "main.js": "/TaTeTi/static/js/main.3b64488b.chunk.js",
+    "main.js.map": "/TaTeTi/static/js/main.3b64488b.chunk.js.map",
     "runtime-main.js": "/TaTeTi/static/js/runtime-main.28533e25.js",
     "runtime-main.js.map": "/TaTeTi/static/js/runtime-main.28533e25.js.map",
     "static/js/2.9210a523.chunk.js": "/TaTeTi/static/js/2.9210a523.chunk.js",
     "static/js/2.9210a523.chunk.js.map": "/TaTeTi/static/js/2.9210a523.chunk.js.map",
     "index.html": "/TaTeTi/index.html",
-    "precache-manifest.651ad495ce2c0f4033f6e960af15b6e5.js": "/TaTeTi/precache-manifest.651ad495ce2c0f4033f6e960af15b6e5.js",
+    "precache-manifest.bc7e163eb1ad69db791e2784e36a2b14.js": "/TaTeTi/precache-manifest.bc7e163eb1ad69db791e2784e36a2b14.js",
     "service-worker.js": "/TaTeTi/service-worker.js",
-    "static/css/main.84d2ce44.chunk.css.map": "/TaTeTi/static/css/main.84d2ce44.chunk.css.map",
+    "static/css/main.a8380a4a.chunk.css.map": "/TaTeTi/static/css/main.a8380a4a.chunk.css.map",
     "static/js/2.9210a523.chunk.js.LICENSE.txt": "/TaTeTi/static/js/2.9210a523.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.28533e25.js",
     "static/js/2.9210a523.chunk.js",
-    "static/css/main.84d2ce44.chunk.css",
-    "static/js/main.43b62e6a.chunk.js"
+    "static/css/main.a8380a4a.chunk.css",
+    "static/js/main.3b64488b.chunk.js"
   ]
 }

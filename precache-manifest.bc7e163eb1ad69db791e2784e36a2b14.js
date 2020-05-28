@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f34a03a4658f147779bdc2ea5acc9c6c",
+    "revision": "08bba483812c9391b628fde4c565a0b1",
     "url": "/TaTeTi/index.html"
   },
   {
-    "revision": "cc343946e03d8b079a3a",
-    "url": "/TaTeTi/static/css/main.84d2ce44.chunk.css"
+    "revision": "dc2cfc7242b5a5086d95",
+    "url": "/TaTeTi/static/css/main.a8380a4a.chunk.css"
   },
   {
     "revision": "181702362b32fd82cbb2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TaTeTi/static/js/2.9210a523.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc343946e03d8b079a3a",
-    "url": "/TaTeTi/static/js/main.43b62e6a.chunk.js"
+    "revision": "dc2cfc7242b5a5086d95",
+    "url": "/TaTeTi/static/js/main.3b64488b.chunk.js"
   },
   {
     "revision": "6ed6893467a28db932df",
